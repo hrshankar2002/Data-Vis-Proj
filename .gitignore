@@ -1,0 +1,10 @@
+*.png
+CL*.md
+SD6105*.pdf
+data/
+
+# PDM / Python environment
+.venv/
+.pdm-python
+__pycache__/
+*.pyc
