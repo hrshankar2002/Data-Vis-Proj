@@ -17,4 +17,6 @@ notebook = [
     "jupyter>=1.1.1",
     "nbconvert==7.17.2",
     "ipykernel==7.3.0",
+    "imageio-ffmpeg>=0.7.0",
+    "plotly>=7.1.0",
 ]

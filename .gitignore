@@ -8,3 +8,6 @@ data/
 .pdm-python
 __pycache__/
 *.pyc
+# Rendered video clips (rebuilt by make_video_clips.py)
+video/
+make*.py
