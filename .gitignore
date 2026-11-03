@@ -1,6 +1,6 @@
 *.png
 CL*.md
-SD6105*.pdf
+# SD6105*.pdf
 data/
 
 # PDM / Python environment
